@@ -64,13 +64,12 @@ h1, p{
 button{
     display: block;
     width: 120px;
-    padding: 7px 10px;
+    padding: 10px 15px;
     border-radius: 10px;
     margin: 20px auto;
     font-weight: bold;
     color: white;
     background-color: rgb(87, 97, 249);
-
     border: none;
 }
 
